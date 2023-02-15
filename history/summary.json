@@ -4,18 +4,20 @@
     "url": "https://publisher-staging.bvrdev.com/",
     "icon": "https://icons.duckduckgo.com/ip3/publisher-staging.bvrdev.com.ico",
     "slug": "publisher-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 162,
-    "timeDay": 70,
-    "timeWeek": 162,
-    "timeMonth": 162,
-    "timeYear": 162,
-    "dailyMinutesDown": {}
+    "time": 192,
+    "timeDay": 249,
+    "timeWeek": 192,
+    "timeMonth": 192,
+    "timeYear": 192,
+    "dailyMinutesDown": {
+      "2023-02-15": 0
+    }
   },
   {
     "name": "API Staging",
