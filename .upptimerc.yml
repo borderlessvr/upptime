@@ -3,8 +3,12 @@ owner: borderlessvr # Your GitHub organization or username, where this repositor
 repo: upptime # The name of this repository
 
 sites:
+  - name: Publisher Production
+    url: https://publisher.bvrdev.com/
   - name: Publisher Staging
     url: https://publisher-staging.bvrdev.com/
+  - name: API
+    url: https://api.bvrdev.com/
   - name: API Staging
     url: https://api-staging.bvrdev.com/
     
