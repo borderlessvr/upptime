@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Publisher Production
-    url: https://publisher.bvrdev.com/
+    url: https://app.borderlessvr.com
   - name: Publisher Staging
     url: https://publisher-staging.bvrdev.com/
   - name: API
