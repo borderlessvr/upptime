@@ -1,8 +1,8 @@
 [
   {
     "name": "Publisher Production",
-    "url": "https://publisher.bvrdev.com/",
-    "icon": "https://icons.duckduckgo.com/ip3/publisher.bvrdev.com.ico",
+    "url": "https://app.borderlessvr.com",
+    "icon": "https://icons.duckduckgo.com/ip3/app.borderlessvr.com.ico",
     "slug": "publisher-production",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 471,
-    "timeDay": 434,
-    "timeWeek": 352,
-    "timeMonth": 378,
-    "timeYear": 471,
+    "time": 465,
+    "timeDay": 300,
+    "timeWeek": 329,
+    "timeMonth": 371,
+    "timeYear": 465,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 304,
-    "timeDay": 249,
-    "timeWeek": 235,
-    "timeMonth": 230,
-    "timeYear": 304,
+    "time": 302,
+    "timeDay": 196,
+    "timeWeek": 223,
+    "timeMonth": 227,
+    "timeYear": 302,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 149,
-    "timeDay": 145,
-    "timeWeek": 123,
-    "timeMonth": 133,
-    "timeYear": 149,
+    "time": 147,
+    "timeDay": 96,
+    "timeWeek": 114,
+    "timeMonth": 130,
+    "timeYear": 147,
     "dailyMinutesDown": {}
   },
   {
@@ -65,8 +65,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 142,
-    "timeDay": 229,
-    "timeWeek": 126,
+    "timeDay": 163,
+    "timeWeek": 122,
     "timeMonth": 126,
     "timeYear": 142,
     "dailyMinutesDown": {}
