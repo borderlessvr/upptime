@@ -5,13 +5,21 @@ repo: upptime # The name of this repository
 sites:
   - name: Publisher Production
     url: https://app.borderlessvr.com
-  - name: Publisher Staging
-    url: https://publisher-staging.bvrdev.com/
+#  - name: Publisher Staging
+#    url: https://publisher-staging.bvrdev.com/
   - name: API
     url: https://api.bvrdev.com/
   - name: API Staging
     url: https://api-staging.bvrdev.com/
-    
+
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/15 * * * *"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
