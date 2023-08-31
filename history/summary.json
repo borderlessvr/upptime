@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
-    "time": 355,
-    "timeDay": 224,
-    "timeWeek": 325,
-    "timeMonth": 333,
-    "timeYear": 355,
+    "time": 354,
+    "timeDay": 145,
+    "timeWeek": 267,
+    "timeMonth": 322,
+    "timeYear": 354,
     "dailyMinutesDown": {
       "2023-08-08": 20,
       "2023-05-24": 16
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 159,
-    "timeDay": 80,
-    "timeWeek": 249,
-    "timeMonth": 190,
+    "timeDay": 60,
+    "timeWeek": 229,
+    "timeMonth": 183,
     "timeYear": 159,
     "dailyMinutesDown": {
       "2023-06-18": 33
@@ -47,17 +47,16 @@
     "slug": "api-staging",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 151,
-    "timeDay": 119,
-    "timeWeek": 164,
-    "timeMonth": 171,
+    "timeDay": 127,
+    "timeWeek": 151,
+    "timeMonth": 164,
     "timeYear": 151,
     "dailyMinutesDown": {
-      "2023-08-30": 8,
       "2023-05-09": 32,
       "2023-04-27": 16
     }
