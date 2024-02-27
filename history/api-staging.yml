@@ -1,7 +1,7 @@
 url: https://api-staging.bvrdev.com/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-02-27T18:29:44.618Z
+status: up
+code: 200
+responseTime: 75
+lastUpdated: 2024-02-27T18:38:41.661Z
 startTime: 2023-02-10T14:49:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
