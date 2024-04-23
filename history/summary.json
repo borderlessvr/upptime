@@ -26,7 +26,7 @@
     "url": "https://api.bvrdev.com/",
     "icon": "https://icons.duckduckgo.com/ip3/api.bvrdev.com.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.91%",
@@ -38,6 +38,7 @@
     "timeMonth": 165,
     "timeYear": 157,
     "dailyMinutesDown": {
+      "2024-04-23": 0,
       "2024-04-17": 9,
       "2024-04-15": 17,
       "2024-04-12": 17,
