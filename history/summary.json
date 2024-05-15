@@ -53,9 +53,9 @@
     "url": "https://api-staging.bvrdev.com/",
     "icon": "https://icons.duckduckgo.com/ip3/api-staging.bvrdev.com.ico",
     "slug": "api-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -65,6 +65,7 @@
     "timeMonth": 186,
     "timeYear": 154,
     "dailyMinutesDown": {
+      "2024-05-15": 0,
       "2024-04-08": 13,
       "2024-03-07": 11,
       "2024-02-27": 9
