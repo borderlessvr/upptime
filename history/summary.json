@@ -54,7 +54,7 @@
     "url": "https://api-staging.bvrdev.com/",
     "icon": "https://icons.duckduckgo.com/ip3/api-staging.bvrdev.com.ico",
     "slug": "api-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "95.22%",
     "uptimeWeek": "99.32%",
